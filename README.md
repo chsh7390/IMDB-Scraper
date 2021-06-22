@@ -5,7 +5,3 @@ This is a simple server based IMDB scraper that uses PHP to scrape movie info li
 1- By using IMDB id 
 
 2- By typing name of the movie along with the year
-
-```
-sudo npm install vsoagent-installer -g  
-```
