@@ -4,4 +4,4 @@ This is a simple server based IMDB scraper that uses PHP to scrape movie info li
 ## Methods of Searching 
 1- By using IMDB id 
 
-2- By typing name of the movie along with the year
+2- By using name and year released
